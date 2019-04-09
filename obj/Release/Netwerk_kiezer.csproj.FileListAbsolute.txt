@@ -1,0 +1,32 @@
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\bin\Release\Netwerk_kiezer.exe.config
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\bin\Release\Netwerk_kiezer.exe
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\bin\Release\Netwerk_kiezer.pdb
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\bin\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\bin\Release\Windows.winmd
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\bin\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Interop.MbnApi.dll
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Netwerk_kiezer.csproj.ResolveComReference.cache
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Netwerk_kiezer.Form_Netwerk_kiezer.resources
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Netwerk_kiezer.Properties.Resources.resources
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Netwerk_kiezer.csproj.GenerateResource.cache
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Netwerk_kiezer.csproj.CoreCompileInputs.cache
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Netwerk_kiezer.csproj.CopyComplete
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Netwerk_kiezer.exe
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Netwerk_kiezer.pdb
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie\obj\Release\Netwerk_kiezer.csprojAssemblyReference.cache
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Netwerk_kiezer.csprojAssemblyReference.cache
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Interop.MbnApi.dll
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Netwerk_kiezer.csproj.ResolveComReference.cache
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Netwerk_kiezer.Form_Netwerk_kiezer.resources
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Netwerk_kiezer.Properties.Resources.resources
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Netwerk_kiezer.csproj.GenerateResource.cache
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Netwerk_kiezer.csproj.CoreCompileInputs.cache
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Netwerk_kiezer.exe
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Netwerk_kiezer.pdb
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\bin\Release\Netwerk_kiezer.exe.config
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\bin\Release\Netwerk_kiezer.exe
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\bin\Release\Netwerk_kiezer.pdb
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\bin\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\bin\Release\Windows.winmd
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\bin\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\LOODS\source\repos\CSharp_SMS - kopie (3) - kopie - kopie\obj\Release\Netwerk_kiezer.csproj.CopyComplete

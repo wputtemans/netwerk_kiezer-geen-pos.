@@ -1,0 +1,10 @@
+C:\Users\LOODS\source\repos\CSharp_SMS\bin\Debug\CSharp_SMS.exe.config
+C:\Users\LOODS\source\repos\CSharp_SMS\bin\Debug\CSharp_SMS.exe
+C:\Users\LOODS\source\repos\CSharp_SMS\bin\Debug\CSharp_SMS.pdb
+C:\Users\LOODS\source\repos\CSharp_SMS\obj\Debug\CSharp_SMS.csprojAssemblyReference.cache
+C:\Users\LOODS\source\repos\CSharp_SMS\obj\Debug\CSharp_SMS.Form_SMS_Sender.resources
+C:\Users\LOODS\source\repos\CSharp_SMS\obj\Debug\CSharp_SMS.Properties.Resources.resources
+C:\Users\LOODS\source\repos\CSharp_SMS\obj\Debug\CSharp_SMS.csproj.GenerateResource.cache
+C:\Users\LOODS\source\repos\CSharp_SMS\obj\Debug\CSharp_SMS.csproj.CoreCompileInputs.cache
+C:\Users\LOODS\source\repos\CSharp_SMS\obj\Debug\CSharp_SMS.exe
+C:\Users\LOODS\source\repos\CSharp_SMS\obj\Debug\CSharp_SMS.pdb
